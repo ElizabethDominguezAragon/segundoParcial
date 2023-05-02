@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\CONVERSION MONEDA\CONVERSION MONEDA\bin\Debug\CONVERSION MONEDA.exe.config
+C:\Users\Alumno\source\repos\CONVERSION MONEDA\CONVERSION MONEDA\bin\Debug\CONVERSION MONEDA.exe
+C:\Users\Alumno\source\repos\CONVERSION MONEDA\CONVERSION MONEDA\bin\Debug\CONVERSION MONEDA.pdb
+C:\Users\Alumno\source\repos\CONVERSION MONEDA\CONVERSION MONEDA\obj\Debug\CONVERSION MONEDA.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\CONVERSION MONEDA\CONVERSION MONEDA\obj\Debug\CONVERSION MONEDA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\CONVERSION MONEDA\CONVERSION MONEDA\obj\Debug\CONVERSION_MONEDA.Form1.resources
+C:\Users\Alumno\source\repos\CONVERSION MONEDA\CONVERSION MONEDA\obj\Debug\CONVERSION_MONEDA.Properties.Resources.resources
+C:\Users\Alumno\source\repos\CONVERSION MONEDA\CONVERSION MONEDA\obj\Debug\CONVERSION MONEDA.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\CONVERSION MONEDA\CONVERSION MONEDA\obj\Debug\CONVERSION MONEDA.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\CONVERSION MONEDA\CONVERSION MONEDA\obj\Debug\CONVERSION MONEDA.exe
+C:\Users\Alumno\source\repos\CONVERSION MONEDA\CONVERSION MONEDA\obj\Debug\CONVERSION MONEDA.pdb

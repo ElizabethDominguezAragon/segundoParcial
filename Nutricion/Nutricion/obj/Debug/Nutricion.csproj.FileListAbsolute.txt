@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\Nutricion\Nutricion\bin\Debug\Nutricion.exe.config
+C:\Users\Alumno\source\repos\Nutricion\Nutricion\bin\Debug\Nutricion.exe
+C:\Users\Alumno\source\repos\Nutricion\Nutricion\bin\Debug\Nutricion.pdb
+C:\Users\Alumno\source\repos\Nutricion\Nutricion\obj\Debug\Nutricion.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Nutricion\Nutricion\obj\Debug\Nutricion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\Nutricion\Nutricion\obj\Debug\Nutricion.Form1.resources
+C:\Users\Alumno\source\repos\Nutricion\Nutricion\obj\Debug\Nutricion.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Nutricion\Nutricion\obj\Debug\Nutricion.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Nutricion\Nutricion\obj\Debug\Nutricion.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Nutricion\Nutricion\obj\Debug\Nutricion.exe
+C:\Users\Alumno\source\repos\Nutricion\Nutricion\obj\Debug\Nutricion.pdb
