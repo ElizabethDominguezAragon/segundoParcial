@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\cobro automatico\cobro automatico\bin\Debug\cobro automatico.exe.config
+C:\Users\Alumno\source\repos\cobro automatico\cobro automatico\bin\Debug\cobro automatico.exe
+C:\Users\Alumno\source\repos\cobro automatico\cobro automatico\bin\Debug\cobro automatico.pdb
+C:\Users\Alumno\source\repos\cobro automatico\cobro automatico\obj\Debug\cobro automatico.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\cobro automatico\cobro automatico\obj\Debug\cobro automatico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\cobro automatico\cobro automatico\obj\Debug\cobro_automatico.Form1.resources
+C:\Users\Alumno\source\repos\cobro automatico\cobro automatico\obj\Debug\cobro_automatico.Properties.Resources.resources
+C:\Users\Alumno\source\repos\cobro automatico\cobro automatico\obj\Debug\cobro automatico.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\cobro automatico\cobro automatico\obj\Debug\cobro automatico.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\cobro automatico\cobro automatico\obj\Debug\cobro automatico.exe
+C:\Users\Alumno\source\repos\cobro automatico\cobro automatico\obj\Debug\cobro automatico.pdb
