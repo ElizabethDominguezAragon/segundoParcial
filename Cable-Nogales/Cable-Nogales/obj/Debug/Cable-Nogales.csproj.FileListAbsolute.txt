@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\Cable-Nogales\Cable-Nogales\obj\Debug\Cable-Nogales.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Cable-Nogales\Cable-Nogales\obj\Debug\Cable-Nogales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\Cable-Nogales\Cable-Nogales\obj\Debug\Cable_Nogales.Form1.resources
+C:\Users\Alumno\source\repos\Cable-Nogales\Cable-Nogales\obj\Debug\Cable_Nogales.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Cable-Nogales\Cable-Nogales\obj\Debug\Cable-Nogales.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Cable-Nogales\Cable-Nogales\obj\Debug\Cable-Nogales.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Cable-Nogales\Cable-Nogales\bin\Debug\Cable-Nogales.exe.config
+C:\Users\Alumno\source\repos\Cable-Nogales\Cable-Nogales\bin\Debug\Cable-Nogales.exe
+C:\Users\Alumno\source\repos\Cable-Nogales\Cable-Nogales\bin\Debug\Cable-Nogales.pdb
+C:\Users\Alumno\source\repos\Cable-Nogales\Cable-Nogales\obj\Debug\Cable-Nogales.exe
+C:\Users\Alumno\source\repos\Cable-Nogales\Cable-Nogales\obj\Debug\Cable-Nogales.pdb
